@@ -15,9 +15,9 @@ Cristiano Ronaldo dos Santos Aveiro was born in Funchal, Madeira Islands in earl
 
 Growing up, Ronaldo idolized the Brazilian legends Ronaldinho and Ronaldo Nazário, and has described them as leaving "a beautiful history in football".
 
-## Achievments 
+## Achievements 
 
-Season / year	Competition	Club / national team	
+*Season / year	Competition	Club / national team*
 
 2002	Supertaça Cândido de Oliveira	Sporting CP	
 
