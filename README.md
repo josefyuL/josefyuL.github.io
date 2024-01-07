@@ -1,6 +1,6 @@
 # Cristiano Ronaldo dos Santo Aveiro
 
-![ronaldo](https://i.pinimg.com/564x/c7/6b/9a/c76b9aeaae2db3797c6309cbbcea0c9b.jpg)
+![ronaldo](https://i.pinimg.com/564x/f9/1e/96/f91e966f9762182d8c05e6f19aacdb7a.jpg)
 
 Cristiano Ronaldo dos Santos Aveiro; born 5 February 1985, better known as Ronaldo, is a Portuguese professional footballer who plays as a forward. He is the captain of the Portuguese national team and he is currently playing at Saudi Arabian football club Al Nassr at 38 years old.
 
