@@ -1,5 +1,4 @@
 # josefyuL.github.io
-### Josef Ivan S. De Jesus
 
 # Cristiano Ronaldo dos Santo Aveiro
 
@@ -111,6 +110,6 @@ Growing up, Ronaldo idolized the Brazilian legends Ronaldinho and Ronaldo Nazár
 
 2023	Arab Club Champions Cup	Al Nassr	
 
-#Here are his goals highlights
+# Here are all his career goals from 2003-2021
 
- [goals](<iframe width="560" height="315" src="https://www.youtube.com/embed/F3ckr2gFHXc?si=eXH8ewpMyuz4wIsd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>)
+(<iframe width="560" height="315" src="https://www.youtube.com/embed/F3ckr2gFHXc?si=ibQtG5HBLkz0Fgod" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>)
